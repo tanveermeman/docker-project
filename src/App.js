@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+		This is updated in realti me and does not need to rebuild the project.
         </p>
         <a
           className="App-link"
