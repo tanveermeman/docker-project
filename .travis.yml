@@ -6,4 +6,4 @@ before_install:
 	- docker build -t tanveermeman/docker-project -f Dockerfile.dev .
 
 script:
-	- docker run tanveermeman/docker-project nam run test —- —- coverage
+	- docker run tanveermeman/docker-project nam run test —- —-coverage
